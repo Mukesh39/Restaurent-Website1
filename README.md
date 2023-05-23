@@ -46,6 +46,6 @@ This project is licensed Completly Free without any Charge.
 
 ## Acknowledgements
 
-- [Google Images and Respective Sites](https://unsplash.com/) for providing high-quality images.
+- [Google Images and Respective Sites](https://images.google.com) for providing high-quality images.
 - [FontAwesome](https://fontawesome.com/) for the icons used in the project.
 
