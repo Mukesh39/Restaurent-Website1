@@ -42,7 +42,7 @@ There is Little Change  is Require in Designing Part . Any one Can Do
 
 ## License
 
-This project is licensed Completly Free withiut any Charge.
+This project is licensed Completly Free without any Charge.
 
 ## Acknowledgements
 
