@@ -318,8 +318,8 @@ flex: 1 1 30rem;
 
 
 
- .popular .box-container .box  .price{
-    position:absolute;
+ .popular .box-container .box  .price {
+    
     top: 3rem; left: 3rem;
     background: var(--red);
     color: #fff;
@@ -328,6 +328,7 @@ flex: 1 1 30rem;
     border-radius: .5rem;
  }
 
+ 
 
 
  .popular .box-container .box  h3{
@@ -369,7 +370,7 @@ padding: 1rem .1rem;
 
 .steps .box img {
     
-
+    
     border-radius: 50%;
     border: 1rem solid #fff;
     box-shadow: 0 .5rem 1rem rgba(0 , 0 , 0 ,.1);
