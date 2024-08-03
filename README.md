@@ -6,6 +6,10 @@ This is a Food/Restaurant website project built using HTML, CSS, and JavaScript.
 
 The Restaurant/Food - Website showcases the menu, services, and information about the Food. It provides a user-friendly interface for customers to explore the restaurant's offerings and make reservations.
 
+##Demo
+![Screenshot 2024-08-03 at 7 33 15 PM](https://github.com/user-attachments/assets/51e8896b-b979-46dd-b65f-d003fdd039ad)
+
+
 ## Features
 
 - Responsive design for optimal viewing on different devices
